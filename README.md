@@ -1,4 +1,4 @@
-# OtakuPlay
+# OtakuPlay.Moe
 Anime/Visual Novel/J-POP Music Streaming Network.
 
 [Click Here For The Current Status](https://github.com/users/Izanami-Chan/projects/2) <br />
