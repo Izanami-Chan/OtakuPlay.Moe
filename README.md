@@ -20,4 +20,4 @@ AnimeSub Network:-  [https://bit.ly/animesubnetwork](https://bit.ly/animesubnetw
 Support And Realese Server Link :- [https://discord.gg/GzRVeYDZ9J](https://discord.gg/GzRVeYDZ9J) <br />
 Community Server Link:-  [https://discord.gg/pVk8PjCWPK](https://discord.gg/pVk8PjCWPK) <br />
 
-***A Project By AnimeSub Network ***
+**A Project By AnimeSub Network **
